@@ -10,5 +10,6 @@ With concrete examples, this repository tries introduce clearly the basic elemen
 
 ### requirements:
 Install python packages using this command:
-```pip install numpy scipy pandas matplotlib sklearn pillow
+```bash
+pip install numpy scipy pandas matplotlib sklearn pillow
 ```
