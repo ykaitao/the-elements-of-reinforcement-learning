@@ -1,0 +1,192 @@
+Episode 0 starts, Your initial state: AMZN.
+Time: 1; 
+Action: b; 
+New state: GOOG; 
+Reward: 18 k€.
+=======
+Time: 2; 
+Action: b; 
+New state: GOOG; 
+Reward: 17 k€.
+=======
+Time: 3; 
+Action: b; 
+New state: FB; 
+Reward: -1 k€.
+=======
+Time: 4; 
+Action: s; 
+New state: AMZN; 
+Reward: 12 k€.
+=======
+Time: 5; 
+Action: b; 
+New state: GOOG; 
+Reward: 22 k€.
+=======
+Time: 6; 
+Action: b; 
+New state: GOOG; 
+Reward: 26 k€.
+=======
+Time: 7; 
+Action: b; 
+New state: GOOG; 
+Reward: 24 k€.
+=======
+Time: 8; 
+Action: b; 
+New state: FB; 
+Reward: -3 k€.
+=======
+Time: 9; 
+Action: s; 
+New state: AMZN; 
+Reward: 10 k€.
+=======
+End of episode, your total gain is 127 k€ in this episode.
+========================
+Episode 1 starts, Your initial state: GOOG.
+Time: 1; 
+Action: b; 
+New state: GOOG; 
+Reward: 25 k€.
+=======
+Time: 2; 
+Action: b; 
+New state: GOOG; 
+Reward: 17 k€.
+=======
+Time: 3; 
+Action: b; 
+New state: GOOG; 
+Reward: 24 k€.
+=======
+Time: 4; 
+Action: b; 
+New state: GOOG; 
+Reward: 19 k€.
+=======
+Time: 5; 
+Action: b; 
+New state: GOOG; 
+Reward: 14 k€.
+=======
+Time: 6; 
+Action: b; 
+New state: GOOG; 
+Reward: 12 k€.
+=======
+Time: 7; 
+Action: b; 
+New state: FB; 
+Reward: 0 k€.
+=======
+Time: 8; 
+Action: b; 
+New state: GOOG; 
+Reward: 22 k€.
+=======
+Time: 9; 
+Action: b; 
+New state: GOOG; 
+Reward: 16 k€.
+=======
+End of episode, your total gain is 151 k€ in this episode.
+========================
+Episode 2 starts, Your initial state: FB.
+Time: 1; 
+Action: s; 
+New state: AMZN; 
+Reward: 12 k€.
+=======
+Time: 2; 
+Action: b; 
+New state: AMZN; 
+Reward: -16 k€.
+=======
+Time: 3; 
+Action: b; 
+New state: GOOG; 
+Reward: 10 k€.
+=======
+Time: 4; 
+Action: b; 
+New state: GOOG; 
+Reward: 31 k€.
+=======
+Time: 5; 
+Action: b; 
+New state: GOOG; 
+Reward: 15 k€.
+=======
+Time: 6; 
+Action: b; 
+New state: FB; 
+Reward: 0 k€.
+=======
+Time: 7; 
+Action: s; 
+New state: AMZN; 
+Reward: 5 k€.
+=======
+Time: 8; 
+Action: b; 
+New state: GOOG; 
+Reward: 19 k€.
+=======
+Time: 9; 
+Action: b; 
+New state: GOOG; 
+Reward: 21 k€.
+=======
+End of episode, your total gain is 99 k€ in this episode.
+========================
+Episode 3 starts, Your initial state: AMZN.
+Time: 1; 
+Action: s; 
+New state: FB; 
+Reward: 2 k€.
+=======
+Time: 2; 
+Action: s; 
+New state: AMZN; 
+Reward: 13 k€.
+=======
+Time: 3; 
+Action: s; 
+New state: GOOG; 
+Reward: -21 k€.
+=======
+Time: 4; 
+Action: s; 
+New state: AMZN; 
+Reward: 11 k€.
+=======
+Time: 5; 
+Action: s; 
+New state: FB; 
+Reward: 6 k€.
+=======
+Time: 6; 
+Action: s; 
+New state: AMZN; 
+Reward: 12 k€.
+=======
+Time: 7; 
+Action: s; 
+New state: FB; 
+Reward: 1 k€.
+=======
+Time: 8; 
+Action: s; 
+New state: AMZN; 
+Reward: 17 k€.
+=======
+Time: 9; 
+Action: s; 
+New state: AMZN; 
+Reward: 17 k€.
+=======
+End of episode, your total gain is 60 k€ in this episode.
+========================
