@@ -31,21 +31,21 @@ def initial_state():
 def reward_function(state_next, action_curr):
     
     if state_next==state_set[0]: # Amazon
-        reward_next = int(np.random.normal(loc=40, scale=1, size=1))
+        reward_next = np.random.normal(loc=40, scale=1, size=1)
         
         reward_next = np.random.normal(loc=0.4, scale=0.1, size=1)*reward_next
         if action_curr == 'b': 
             reward_next = - reward_next # leads to loss
         
     elif state_next==state_set[1]: # Google
-        reward_next = int(np.random.normal(loc=60, scale=1, size=1))
+        reward_next = np.random.normal(loc=60, scale=1, size=1)
         
         reward_next = np.random.normal(loc=-0.3, scale=0.1, size=1)*reward_next
         if action_curr == 'b': 
             reward_next = - reward_next # leads to gain
         
     else: # Facebook
-        reward_next = int(np.random.normal(loc=30, scale=1, size=1))
+        reward_next = np.random.normal(loc=30, scale=1, size=1)
 
         reward_next = np.random.normal(loc=0.1, scale=0.1, size=1)*reward_next
         if action_curr == 'b': 
