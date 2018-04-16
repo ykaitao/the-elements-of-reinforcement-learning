@@ -7,7 +7,7 @@ With concrete examples, this repository tries introduce clearly the basic elemen
 * Reinforcement Learning: an introduction, Richard S. Sutton and Andrew G. Barto, 2018, [pdf](https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view) 
 * Reinforcement Learning: an introduction, Richard S. Sutton and Andrew G. Barto, 2018, [code](https://github.com/ykaitao/reinforcement-learning-an-introduction)
 * Deep Reinforcement Learning: An Overview, Yuxi Li, 2017, [pdf](https://arxiv.org/abs/1701.07274)
-
+* CS 294: Deep Reinforcement Learning, Fall 2017, [UC Berkeley course](http://rll.berkeley.edu/deeprlcourse/)
 ### requirements:
 Install python packages using this command:
 ```bash
